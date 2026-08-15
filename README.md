@@ -12,8 +12,8 @@ University-issued question papers are intentionally not included. The answer PDF
 
 | Path | Topics |
 | --- | --- |
-| `Assignment 1/` | Bayesian networks, artificial neural networks, and convolutional neural networks. |
-| `Assignment 2/` | Markov decision processes, reinforcement learning, and natural-language processing. |
+| [`Assignment 1/`](./Assignment%201) | Bayesian networks, artificial neural networks, and convolutional neural networks. |
+| [`Assignment 2/`](./Assignment%202) | Markov decision processes, reinforcement learning, and natural-language processing. |
 
 Notebooks and adjacent assets should remain in their existing assignment folders because several notebooks expect local files such as `model.json`, `model.h5`, and `tweets.csv`.
 
